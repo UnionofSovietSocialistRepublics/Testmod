@@ -1,7 +1,7 @@
 name: "Gate: madness"
 description: "fake"
 type: CoreBlock
-buildVisibility: hidden
+buildVisibility: shown
 health: 69420
 itemCapacity: 69420
 size: 3
