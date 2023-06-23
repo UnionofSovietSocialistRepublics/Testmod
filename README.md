@@ -1,2 +1,1 @@
-# Testmod
-This is a testing space for my mindussy mod, what do you expect
+Test space for my mindussy mod, don't expect anything fancy
