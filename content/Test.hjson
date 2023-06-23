@@ -7,7 +7,6 @@ itemCapacity: 69420
 size: 3
 unitType: vela
 unitCapModifier: 69420
-research: Beastcav
 requirements: [
 sporepod-biomass/350
 ]
