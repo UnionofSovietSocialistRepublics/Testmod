@@ -4,6 +4,3 @@ author: "Water molecues"
 description: "A testing space for my mod, don't expect anything fancy"
 version: "1.5"
 minGameVersion: "140"
-dependencies: [
-  multi-crafter
-]
