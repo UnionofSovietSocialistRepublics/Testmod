@@ -2,7 +2,7 @@ name: "AE"
 type: CoreBlock
 health: 19840
 itemCapacity: 19840
-buildVisibility: hidden
+hidden: true
 size: 5
 unitType: alpha
 unitCapModifier: 69
