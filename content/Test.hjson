@@ -1,13 +1,14 @@
-name: "Gate: madness"
-description: "fake"
+name: "AE"
 type: CoreBlock
-buildVisibility: shown
-health: 69420
-itemCapacity: 69420
-size: 3
-unitType: vela
-unitCapModifier: 69420
+health: 19840
+itemCapacity: 19840
+size: 5
+unitType: alpha
+unitCapModifier: 69
 requirements: [
-silicon/350
-]
+  silicon/1250
+  thorium/1725
+] 
 category: effect
+research: core-nucleus
+researchCostMultiplier: 0.25
